@@ -5,4 +5,4 @@
 4. run nnUNet_predict -i ./imagesTr -o ./infersTs_demo -t 068 -f all -m 2d
 
 
-Pretrained weight will be uploaded soom.
+Pretrained weight will be uploaded soon.
